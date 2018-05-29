@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Blogging on the tech world
 
 You can use the [editor on GitHub](https://github.com/realleoman/realleoman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
